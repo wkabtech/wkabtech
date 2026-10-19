@@ -3,7 +3,7 @@
 **Étudiant en L3 Informatique au Cnam** | **Major de Promo BTS CIEL (15,85/20 — 18/20 Cybersécurité)**
 
 > **Recherche de stage L3 (4 à 6 mois) : Janvier – Juillet 2027**  
-> Métropole Lilloise  • Focus : SRE, Administration Linux & Cloud Infra
+> Métropole Lilloise • Focus : SRE, Administration Linux & Cloud Infra
 
 ---
 
@@ -30,10 +30,8 @@
 
 ---
 
-### Progression & Objectifs Actuels
+### Contact
 
-```text
-[████████████████████] 100% - Fondations Reseaux & BTS CIEL
-[████████████░░░░░░░░]  60% - Administration Linux Avancee & SSH
-[████████░░░░░░░░░░░░]  40% - Conteneurisation Docker & Microservices
-[████░░░░░░░░░░░░░░░░]  20% - Observabilite SRE & Automation Cloud
+- **LinkedIn :** [linkedin.com/in/walid-kabli](https://linkedin.com/in/walid-kabli)
+- **Email :** wkabjob@gmail.com
+- **Localisation :** Croix / Lille, France (Permis B)
