@@ -1,13 +1,13 @@
-# 🛠️ Walid KABLI
+# Walid KABLI
 
-🎓 **Étudiant en L3 Informatique au Cnam** • 🏆 **Major de Promo BTS CIEL (15,85/20 — 18/20 Cybersécurité)**
+**Étudiant en L3 Informatique au Cnam** | **Major de Promo BTS CIEL (15,85/20 — 18/20 Cybersécurité)**
 
-> 🎯 **À la recherche d'un Stage L3 (4 à 6 mois) : Janvier – Juillet 2027**  
-> 📍 **Métropole Lilloise & Remote** • 💼 **Objectif : SRE, Administration Linux & Cloud Infra**
+> **Recherche de stage L3 (4 à 6 mois) : Janvier – Juillet 2027**  
+> Métropole Lilloise & Remote • Focus : SRE, Administration Linux & Cloud Infra
 
 ---
 
-### 🛠️ Mon Stack Technique
+### Mon Stack Technique
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -23,14 +23,14 @@
 
 ---
 
-### 🚀 Projets & Parcours Pratique
+### Projets & Parcours Pratique
 
-- 📌 **[Warmly](https://github.com/wkabtech/Warmly)** — Déploiement d'une architecture distribuée IoT & Cloud (Linux LAMP, Docker, Node.js, MQTT).
-- ⚙️ **[sre-learning-journey](https://github.com/wkabtech/sre-learning-journey)** — Suivi pratique du parcours Ingénieur Fiabilité (SRE) : labs, scripts Bash, dépannage serveur & troubleshooting.
+- **[Warmly](https://github.com/wkabtech/Warmly)** — Déploiement d'une architecture distribuée IoT & Cloud (Linux LAMP, Docker, Node.js, MQTT).
+- **[sre-learning-journey](https://github.com/wkabtech/sre-learning-journey)** — Suivi pratique du parcours Ingénieur Fiabilité (SRE) : labs, scripts Bash, dépannage serveur & troubleshooting.
 
 ---
 
-### 📊 Progression & Objectifs Actuels
+### Progression & Objectifs Actuels
 
 ```text
 [████████████████████] 100% - Fondations Reseaux & BTS CIEL
