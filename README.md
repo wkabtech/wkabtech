@@ -34,4 +34,3 @@
 
 - **LinkedIn :** [linkedin.com/in/walid-kabli](https://linkedin.com/in/walid-kabli)
 - **Email :** wkabjob@gmail.com
-- **Localisation :** Croix / Lille, France (Permis B)
