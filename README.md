@@ -3,7 +3,7 @@
 **Étudiant en L3 Informatique au Cnam** | **Major de Promo BTS CIEL (15,85/20 — 18/20 Cybersécurité)**
 
 > **Recherche de stage L3 (4 à 6 mois) : Janvier – Juillet 2027**  
-> Métropole Lilloise & Remote • Focus : SRE, Administration Linux & Cloud Infra
+> Métropole Lilloise  • Focus : SRE, Administration Linux & Cloud Infra
 
 ---
 
@@ -25,8 +25,8 @@
 
 ### Projets & Parcours Pratique
 
-- **[Warmly](https://github.com/wkabtech/Warmly)** — Déploiement d'une architecture distribuée IoT & Cloud (Linux LAMP, Docker, Node.js, MQTT).
 - **[sre-learning-journey](https://github.com/wkabtech/sre-learning-journey)** — Suivi pratique du parcours Ingénieur Fiabilité (SRE) : labs, scripts Bash, dépannage serveur & troubleshooting.
+- **[Warmly](https://github.com/wkabtech/Warmly)** — Déploiement d'une architecture distribuée IoT & Cloud (Linux LAMP, Docker, Node.js, MQTT).
 
 ---
 
