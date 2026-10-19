@@ -1,5 +1,8 @@
 # Walid KABLI
-### SRE & Cloud Infrastructure Engineer (L3 Cnam)
+### Étudiant en L3 Informatique (Cnam)
+* **SMB101 :** Systèmes d'exploitation & Administration Linux  
+* **RSX102 :** Réseaux & Protocoles Applicatifs (NetDevOps)  
+* **GLG105 :** Génie logiciel & Architecture Cloud Native
 
 > **Recherche de stage SRE / Cloud (4 à 6 mois) : Janvier – Juillet 2027**  
 > 📍 Métropole Lilloise • 🏆 Major de Promo BTS CIEL (15,85/20 • 18/20 Cybersécurité)
