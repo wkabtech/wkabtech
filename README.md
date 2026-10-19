@@ -1,13 +1,12 @@
 # Walid KABLI
+### SRE & Cloud Infrastructure Engineer (L3 Cnam)
 
-**Étudiant en L3 Informatique au Cnam** | **Major de Promo BTS CIEL (15,85/20 — 18/20 Cybersécurité)**
-
-> **Recherche de stage L3 (4 à 6 mois) : Janvier – Juillet 2027**  
-> Métropole Lilloise • Focus : SRE, Administration Linux & Cloud Infra
+> **Recherche de stage SRE / Cloud (4 à 6 mois) : Janvier – Juillet 2027**  
+> 📍 Métropole Lilloise • 🏆 Major de Promo BTS CIEL (15,85/20 • 18/20 Cybersécurité)
 
 ---
 
-### Mon Stack Technique
+### Stack Technique
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -16,21 +15,21 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-- **Systèmes & Réseaux :** Linux (Debian/Ubuntu), Administration SSH, CCNA 1 & 2 (Routing & Switching), Services (DNS, DHCP, VPN)
-- **Cloud & Conteneurs :** Docker, Architecture Cloud Native, Kubernetes (notions), OpenTofu / Terraform (en apprentissage)
-- **Scripting & Observabilité :** Bash, Python, Node.js, Analyse de logs, MQTT, Monitoring
-- **Sécurité :** OWASP, JWT, SSL/TLS, Gestion des privilèges & accès
+* **Systèmes & Réseaux :** Linux (Debian/Ubuntu), Administration SSH, CCNA 1 & 2 (Routing & Switching), Services (DNS, DHCP, VPN)
+* **Cloud & Conteneurs :** Docker, Architecture Cloud Native, Kubernetes (notions), OpenTofu / Terraform (en apprentissage)
+* **Scripting & Observabilité :** Bash, Python, Node.js, Analyse de logs, MQTT, Monitoring
+* **Sécurité :** OWASP, JWT, SSL/TLS, Gestion des privilèges & accès
 
 ---
 
-### Projets & Parcours Pratique
+### Projets & Réalisations
 
-- **[sre-learning-journey](https://github.com/wkabtech/sre-learning-journey)** — Suivi pratique du parcours Ingénieur Fiabilité (SRE) : labs, scripts Bash, dépannage serveur & troubleshooting.
-- **[Warmly](https://github.com/wkabtech/Warmly)** — Déploiement d'une architecture distribuée IoT & Cloud (Linux LAMP, Docker, Node.js, MQTT).
+* **[sre-lab](https://github.com/wkabtech/sre-lab)** — Laboratoire pratique SRE : scripts d'automatisation, résolution de pannes (troubleshooting) et configuration de serveurs.
+* **[Warmly](https://github.com/wkabtech/Warmly)** — Déploiement d'une architecture distribuée IoT & Cloud (Linux LAMP, Docker, Node.js, MQTT).
 
 ---
 
 ### Contact
 
-- **LinkedIn :** [linkedin.com/in/walid-kabli](https://linkedin.com/in/walid-kabli)
-- **Email :** wkabjob@gmail.com
+* **LinkedIn :** [linkedin.com/in/walid-kabli](https://linkedin.com/in/walid-kabli)
+* **Email :** wkabjob@gmail.com
