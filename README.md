@@ -1,7 +1,22 @@
-# Walid KABLI
+<table>
+  <tr>
+    <td width="65%" valign="top">
+      <h1>Walid KABLI</h1>
+      <p>🎓 <strong>Étudiant en L3 Informatique au Cnam</strong><br>
+      🏆 <strong>Major de Promo BTS CIEL</strong> (15,85/20 — 18/20 en Cybersécurité)</p>
+    </td>
+    <td width="35%" align="right" valign="top">
+      <a href="mailto:wkabjob@gmail.com">
+        <img src="https://img.shields.io/badge/🎯%20STAGE%20L3-4%20à%206%20MOIS-2563eb?style=for-the-badge&logoColor=white" alt="Stage L3" />
+      </a><br>
+      📅 <strong>Janvier – Juillet 2027</strong><br>
+      📍 <strong>Métropole Lilloise & Remote</strong>
+    </td>
+  </tr>
+</table>
 
-**Étudiant en L3 Informatique au Cnam** | **Major de Promo BTS CIEL (15,85/20 — 18/20 Cybersécurité)**  
-🎯 *En recherche d'un stage de 4 à 6 mois (Janvier – Juillet 2027) dans la Métropole Lilloise en SRE, Linux & Cloud Infra.*
+> 🛠️ **Cible de stage & carrière :** SRE, Administration Linux & Automatisation Cloud Infra  
+> 📜 **Certifications & Cursus :** CCNA 1 & 2 • Docker • Scripting Bash & Python
 
 ---
 
