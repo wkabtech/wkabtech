@@ -27,7 +27,7 @@
 
 ### Projets & Réalisations
 
-* **[sre-lab](https://github.com/wkabtech/sre-lab)** — Laboratoire pratique SRE : scripts d'automatisation, résolution de pannes (troubleshooting) et configuration de serveurs.
+* **[devops-lab](https://github.com/wkabtech/devops-lab)** — Laboratoire pratique SRE : scripts d'automatisation, résolution de pannes (troubleshooting) et configuration de serveurs.
 * **[Warmly](https://github.com/wkabtech/Warmly)** — Déploiement d'une architecture distribuée IoT & Cloud (Linux LAMP, Docker, Node.js, MQTT).
 
 ---
